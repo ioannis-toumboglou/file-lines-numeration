@@ -7,4 +7,4 @@ In case the input is not correct, an error message is returned.
 
 Example
 
-![alt text](/example.png "File lines numeration example")
+![example](https://user-images.githubusercontent.com/32466180/34079032-91f02f72-e32d-11e7-97e2-2d615f89f37d.png)
